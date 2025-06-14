@@ -1,3 +1,4 @@
+江苏移动OTT,#genre#
 4K修复,http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221225530/index.m3u8
