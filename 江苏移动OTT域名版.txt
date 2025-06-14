@@ -212,7 +212,6 @@ CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8
 CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-CCTV9 576,http://ott.mobaibox.com/PLTV/3/224/3221225868/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221228286/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221227620/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/4/224/3221225550/index.m3u8
@@ -260,7 +259,6 @@ CCTV15,http://ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/4/224/3221227723/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
-CCTV15 576,http://ott.mobaibox.com/PLTV/3/224/3221225817/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
@@ -312,14 +310,10 @@ NewTV武搏世界,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 NewTV炫舞未来,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 NewTV怡伴健康,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 NewTV中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-家庭理财 576,http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
 动漫秀场,http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
 都市剧场,http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
 欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 全纪实,http://ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8
-生活时尚,http://ott.mobaibox.com/PLTV/3/224/3221227707/index.m3u8
-游戏风云,http://ott.mobaibox.com/PLTV/3/224/3221227713/index.m3u8
-NewTV爱情喜剧,http://ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
 安多卫视,http://ott.mobaibox.com/PLTV/4/224/3221226999/index.m3u8
 安多卫视,http://ott.mobaibox.com/PLTV/4/224/3221227651/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/4/224/3221225800/index.m3u8
@@ -336,7 +330,6 @@ NewTV爱情喜剧,http://ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221228153/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227498/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
-安徽卫视 576,http://ott.mobaibox.com/PLTV/3/224/3221225800/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
 宝应生活,http://ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
 宝应新闻,http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
@@ -420,7 +413,6 @@ NewTV爱情喜剧,http://ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
 东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 东南卫视 576,http://ott.mobaibox.com/PLTV/3/224/3221225816/index.m3u8
 动漫秀场,http://ott.mobaibox.com/PLTV/4/224/3221227774/index.m3u8
-NewTV动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 都市剧场,http://ott.mobaibox.com/PLTV/4/224/3221227710/index.m3u8
 发现之旅,http://ott.mobaibox.com/PLTV/4/224/3221227030/index.m3u8
 凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221228060/index.m3u8
@@ -524,11 +516,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221227703/index.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221228159/index.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
-湖北卫视 576,http://ott.mobaibox.com/PLTV/3/224/3221225877/index.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
-金鹰纪实576,http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
-金鹰卡通576,http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
-金鹰卡通 576,http://ott.mobaibox.com/PLTV/3/224/3221226303/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227735/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227698/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227320/index.m3u8
@@ -555,8 +543,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 吉林卫视,http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 纪实人文,http://ott.mobaibox.com/PLTV/4/224/3221227674/index.m3u8
 纪实人文,http://ott.mobaibox.com/PLTV/4/224/3221227635/index.m3u8
-NewTV家庭剧场,http://ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
-家庭理财,http://ott.mobaibox.com/PLTV/4/224/3221227011/index.m3u8
 嘉佳卡通,http://ott.mobaibox.com/PLTV/4/224/3221227598/index.m3u8
 嘉佳卡通,http://ott.mobaibox.com/PLTV/4/224/3221227009/index.m3u8
 贾汪旅游,http://ott.mobaibox.com/PLTV/4/224/3221227389/index.m3u8
@@ -568,14 +554,11 @@ NewTV家庭剧场,http://ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
 江苏多屏,http://ott.mobaibox.com/PLTV/4/224/3221227702/index.m3u8
 江苏故事,http://ott.mobaibox.com/PLTV/4/224/3221227990/index.m3u8
 江苏故事,http://ott.mobaibox.com/PLTV/3/224/3221227990/index.m3u8
-江苏好享购物,http://ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
-江苏好享购物,http://ott.mobaibox.com/PLTV/3/224/3221227398/index.m3u8
 江苏健康,http://ott.mobaibox.com/PLTV/4/224/3221227952/index.m3u8
 江苏健康,http://ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8
 江苏交通,http://ott.mobaibox.com/PLTV/4/224/3221227937/index.m3u8
 江苏交通,http://ott.mobaibox.com/PLTV/3/224/3221227937/index.m3u8
 江苏教育,http://ott.mobaibox.com/PLTV/4/224/3221225923/index.m3u8
-江苏教育 576,http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
 江苏金陵之声,http://ott.mobaibox.com/PLTV/3/224/3221227940/index.m3u8
 江苏经典流行音乐,http://ott.mobaibox.com/PLTV/4/224/3221227943/index.m3u8
 江苏经典流行音乐,http://ott.mobaibox.com/PLTV/3/224/3221227943/index.m3u8
