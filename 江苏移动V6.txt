@@ -57,6 +57,8 @@ CCTV7,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4086984004_1136880123/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1668594586&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV8,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227205/1.m3u8
 CCTV8,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227473/1.m3u8
+CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
 CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 CCTV9,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228303/1.m3u8
 CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw30319478_-185824076/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8?icpid=3&RTS=1668594824&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
@@ -68,10 +70,10 @@ CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3
 CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 CCTV12,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228401/1.m3u8
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-CCTV14 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
-CCTV14 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
-CCTV14 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-CCTV14 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
+CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
+CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
+CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
 CCTV15,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227723/1.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228168/1.m3u8
