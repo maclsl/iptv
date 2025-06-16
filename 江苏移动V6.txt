@@ -505,7 +505,6 @@ CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 新疆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8$卫视
 云南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8$卫视
 内蒙古卫视,http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8$卫视
-厦门卫视,http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8$卫视
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8$卫视
 无锡新闻综合,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228103/1.m3u8$卫视
 南京影视,http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8$卫视
@@ -556,7 +555,6 @@ iHOT频道,#genre#
 纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225567/1.m3u8
 真4K,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228141/1.m3u8
-镇江3,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228208/1.m3u8
 4K,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228242/1.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -574,8 +572,6 @@ iHOT频道,#genre#
 惊悚悬疑,http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$NEWTV
 黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$NEWTV
 咪咕音乐,http://ott.mobaibox.com/PLTV/1/224/3221228444/index.m3u8$NEWTV
-CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
-CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
 1905电影网,http://150.138.77.132:10037/1905电影网.php?id=1905a
 黑莓动画,http://ott.mobaibox.com/PLTV/1/224/3221225555/1.m3u8
 QQ音乐台,http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8$NEWTV
