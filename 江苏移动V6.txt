@@ -516,7 +516,7 @@ CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 江苏综艺,http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8$卫视
 南京少儿,http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8$卫视
 常州3,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228208/index.m3u8
-徐州4,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225951/1.m3u8
+
 
 体育频道,#genre#
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8$NEWTV
