@@ -457,10 +457,8 @@ CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227448/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221228315/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
-山西卫视,http://fn.tmde.top:35455/nptv/shanxi.m3u8
 山西卫视,http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
 山西卫视,http://ott.mobaibox.com/PLTV/4/224/3221227559/index.m3u8
-陕西卫视,http://fn.tmde.top:35455/nptv/shanxiws.m3u8
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227022/index.m3u8
 深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
