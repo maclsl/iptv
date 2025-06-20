@@ -35,6 +35,7 @@ CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228300/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228094/1.m3u8
@@ -242,7 +243,6 @@ CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
 安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221225800/index.m3u8
-北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8
