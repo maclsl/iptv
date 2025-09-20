@@ -10,7 +10,7 @@ namespace ConsoleApp1 {
         static List<Group> Groups;
         static void Main(string[] args) {
             var groups = ReadTvTxt("..\\..\\..\\..\\江苏移动V6.txt");
-            var tvList = ReadM3u8("");
+            ParseScanResult();
         }
 
         static List<Group> ReadTvTxt(string path) {
@@ -32,7 +32,7 @@ namespace ConsoleApp1 {
                         {
                             var tvList = groups.Last().TvList;
                             var key = results[0];
-                            var value = results[1];
+                            var value = results[1].TrimEnd();
                             if (tvList.ContainsKey(key))
                             {
                                 var list = tvList[key];
@@ -56,16 +56,33 @@ namespace ConsoleApp1 {
             return groups;
         }
 
-        static Dictionary<string, List<string>> ReadM3u8(string fileName)
+        static void ParseScanResult()
         {
+            var tvList = new List<(string, string)>();
+            string fileName = "..\\..\\..\\..\\scan.txt";
             using (StreamReader sr = new StreamReader(@fileName))
             {
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 {
-
+                    if (line.Contains("http"))
+                    {
+                        var results = line.Split(new char[] { ',' });
+                        var name = results[0].Trim();
+                        var address = results[1].TrimEnd();
+                        var names = name.Split(new char[] { '[', '*', ']' });
+                        var width = int.Parse(names[1]);
+                        if(width > 1920)
+                        {
+                            tvList.Add((name, address));
+                        }
+                    }
                 }
             }
+
+            string fileName2 = "..\\..\\..\\..\\scansort.txt";
+            string[] lines = tvList.Select(f => $"{f.Item1},{f.Item2}").ToArray();
+            File.WriteAllLines(@fileName2, lines);
         }
     }
 }

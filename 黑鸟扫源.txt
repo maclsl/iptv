@@ -1,0 +1,5 @@
+黑鸟扫源模板A   江苏移动源
+http://ott.mobaibox.com/PLTV/*/224/322122[0001-9999]/index.m3u8
+
+黑鸟扫源模板B    江苏移动源
+http://ott.mobaibox.com/PLTV/[1-4]/224/322122[0001-9999]/index.m3u8
