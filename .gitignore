@@ -10,3 +10,6 @@
 /.vs/iptv/FileContentIndex/c5e91227-b42c-416c-9241-f71893a30138.vsidx
 /.vs/iptv/FileContentIndex/ce7300b7-a008-439c-9812-02a5d2717fb6.vsidx
 /.vs
+/src/ConsoleApp1/bin/Debug
+/src/ConsoleApp1/obj
+/src/ConsoleApp1/.vs/ConsoleApp1
