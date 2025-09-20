@@ -9,10 +9,15 @@ namespace ConsoleApp1 {
     internal class Program {
         static List<Group> Groups;
         static void Main(string[] args) {
-            Groups = new List<Group>();
+            var groups = ReadTvTxt("..\\..\\..\\..\\江苏移动V6.txt");
+            var tvList = ReadM3u8("");
+        }
+
+        static List<Group> ReadTvTxt(string path) {
+            var groups = new List<Group>();
             try
             {
-                using (StreamReader sr = new StreamReader(@"..\..\..\..\江苏移动V6.txt"))
+                using (StreamReader sr = new StreamReader(@path))
                 {
                     string line;
                     while ((line = sr.ReadLine()) != null)
@@ -21,11 +26,11 @@ namespace ConsoleApp1 {
                         if (line.Contains("#genre#"))
                         {
                             var group = new Group() { Name = results[0].Trim() };
-                            Groups.Add(group);
+                            groups.Add(group);
                         }
                         else if (line.Contains("http"))
                         {
-                            var tvList = Groups.Last().TvList;
+                            var tvList = groups.Last().TvList;
                             var key = results[0];
                             var value = results[1];
                             if (tvList.ContainsKey(key))
@@ -42,12 +47,25 @@ namespace ConsoleApp1 {
                     }
                 }
 
-               
+
             }
-            catch (Exception ex) { 
+            catch (Exception ex)
+            {
                 Console.WriteLine(ex);
             }
-           
+            return groups;
+        }
+
+        static Dictionary<string, List<string>> ReadM3u8(string fileName)
+        {
+            using (StreamReader sr = new StreamReader(@fileName))
+            {
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+
+                }
+            }
         }
     }
 }
