@@ -5,15 +5,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1 {
-    internal class Program {
+namespace ConsoleApp1
+{
+    internal class Program
+    {
         static List<Group> Groups;
-        static void Main(string[] args) {
-            var groups = ReadTvTxt("..\\..\\..\\..\\江苏移动V6.txt");
+        const string SourcePath = "..\\..\\..\\..\\江苏移动V6.txt";
+        const string SourcePath2 = "..\\..\\..\\..\\江苏移动V6_backup.txt";
+        static void Main(string[] args)
+        {
+            var groups = ReadTvSource(SourcePath);
+            SaveTvSource(groups);
             ParseScanResult();
         }
 
-        static List<Group> ReadTvTxt(string path) {
+        static List<Group> ReadTvSource(string path)
+        {
             var groups = new List<Group>();
             try
             {
@@ -25,23 +32,24 @@ namespace ConsoleApp1 {
                         var results = line.Split(new char[] { ',' });
                         if (line.Contains("#genre#"))
                         {
-                            var group = new Group() { Name = results[0].Trim() };
+                            var group = new Group() { Name = line.Trim() };
                             groups.Add(group);
                         }
                         else if (line.Contains("http"))
                         {
                             var tvList = groups.Last().TvList;
                             var key = results[0];
-                            var value = results[1].TrimEnd();
+                            var address = results[1].TrimEnd();
                             if (tvList.ContainsKey(key))
                             {
                                 var list = tvList[key];
                                 if (list == null) list = new List<string>();
-                                list.Add(value);
+                                if (!list.Exists(f => address.Length >10 && address.Contains(f)))
+                                    list.Add(address);
                             }
                             else
                             {
-                                tvList[key] = new List<string>() { value };
+                                tvList[key] = new List<string>() { address };
                             }
                         }
                     }
@@ -56,6 +64,17 @@ namespace ConsoleApp1 {
             return groups;
         }
 
+        static void SaveTvSource(List<Group> groups)
+        {
+            var sb = new StringBuilder();
+            string title = string.Empty;
+            foreach (var group in groups)
+            {
+                sb.AppendLine(group.ToString());
+            }
+            File.Copy(SourcePath, SourcePath2, true);
+            File.WriteAllText(SourcePath, sb.ToString());
+        }
         static void ParseScanResult()
         {
             var tvList = new List<(string, string)>();
@@ -72,7 +91,7 @@ namespace ConsoleApp1 {
                         var address = results[1].TrimEnd();
                         var names = name.Split(new char[] { '[', '*', ']' });
                         var width = int.Parse(names[1]);
-                        if(width > 1920)
+                        if (width > 1920)
                         {
                             tvList.Add((name, address));
                         }

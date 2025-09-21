@@ -16,8 +16,12 @@ namespace ConsoleApp1
             var sb = new StringBuilder();
             sb.AppendLine(Name);
             foreach (var item in TvList) {
-                sb.AppendLine($"{item.Key},{item.Value}");
+                foreach (var address in item.Value) {
+                    sb.AppendLine($"{item.Key},{address}");
+                }
+              
             }
+            Console.WriteLine(sb.ToString());
             return sb.ToString();
         }
     }
